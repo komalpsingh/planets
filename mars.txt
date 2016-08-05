@@ -4,3 +4,5 @@ edit copy mars.txt
 #cahnges to be committed:
 # modified mars.txt
 Add a nothe line
+Mars is so RED and dry
+There is no water
